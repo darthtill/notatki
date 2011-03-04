@@ -1,3 +1,4 @@
+
 ====================================================
 Kolorgenerator - program do pobierania kolorów z pulpitu
 http://www.programosy.pl/program,kolorgenerator.html
