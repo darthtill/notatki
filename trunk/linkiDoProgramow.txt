@@ -4,3 +4,6 @@ Kolorgenerator - program do pobierania kolorów z pulpitu
 http://www.programosy.pl/program,kolorgenerator.html
 ===================================================
 Stickies 7.1a - ¿ó³te karteczki
+===================================================
+Hex editor
+http://www.hhdsoftware.com/free-hex-editor 
