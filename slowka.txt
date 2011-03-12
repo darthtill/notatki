@@ -1,14 +1,2 @@
-inefficient  - niesprawny, niewydajny
-avoid - unikaæ
-indent - wciêcie
-brackets - nawiasy klamorwe
-parentheses - nawaisy okragle
-fetch - przynosiæ, pobranie danych z pamiêci
-sender - nadawca
-receiver - odbiorca
-attachement - za³¹cznik
-mandatory - obowi¹zkowy, przymusowy
-purchase - zakup, kupno
-denominator - mianownik w u³amlku
-underscore, underline - podkreœlenie
-custmize - dostosowywaæ do w³asnych potrzeb
+ensure - zapewniæ
+redundant -  niepotrzebny; zbêdny; nadmierny
