@@ -15,3 +15,4 @@ purchase - zakup, kupno
 denominator - mianownik w u³amlku
 underscore, underline - podkreœlenie
 custmize - dostosowywaæ do w³asnych potrzeb
+squirrel - wiewórka
