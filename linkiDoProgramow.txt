@@ -22,3 +22,7 @@ http://www.fileformat.info/info/unicode/char/search.htm
 
 =========== Do zaciemniania kodu Javy ============
 http://proguard.sourceforge.net/
+
+
+============= Pluginy do eclipsa ================
+http://www.vogella.de/eclipse.html
