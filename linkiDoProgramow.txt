@@ -26,3 +26,7 @@ http://proguard.sourceforge.net/
 
 ============= Pluginy do eclipsa ================
 http://www.vogella.de/eclipse.html
+
+
+============= Projekt Sobótki DDD ==================
+http://bottega.com.pl/ddd-cqrs-sample-project
