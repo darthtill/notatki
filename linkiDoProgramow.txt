@@ -35,3 +35,5 @@ http://bottega.com.pl/ddd-cqrs-sample-project
 
 ============ Eclipse Tricks ==================
 https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0B0tpDHMFhIOkZDIzOTFhNjEtYTQ4Yi00YjM2LWI0YmQtNTAyNjlhM2FkYzVl&hl=pl&pli=1
+
+http://allegro.pl/show_item.php?item=1978604012
