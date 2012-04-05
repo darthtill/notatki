@@ -47,3 +47,11 @@ https://62.87.178.113:7655/next-instance/
 
 // internety w plusie
 http://internet.plus.pl/indywidualni/internet-w-telefonie/internet-w-telefonie-w-plus-na-karte
+
+
+// pomoc techniczna do lg
+http://www.lg.com/pl/support/product/support-product-profile-mobile-redux.jsp?customerModelCode=LGP500&matchedModelCode=5300003460&searchEngineModelCode=LG%20Swift%20Plus%20P500&initialTab=warranty&targetPage=support-product-profile
+
+
+// forum androida
+http://forum.android.com.pl/f34/swype-3-26-92-oficjalna-beta-23-jae-zyki-w-tym-polski-2-6-47-bez-ogonka-w-pl-6032/
