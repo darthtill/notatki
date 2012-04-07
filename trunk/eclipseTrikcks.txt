@@ -1,0 +1,36 @@
+Ctrl + Shift + L – Lista dostêpnych skrótów klawiaturowych.
+
+Ctrl + M – Minimalizowanie lewej kolumny (outline, explorer etc…).
+
+Ctrl + Shift + R – Wyszukiwarka plików w projekcie, uwzglêdnia wyra¿enia regularne.
+Ctrl + O – Wyszukiwarka danych w typie (listing metod, atrybutów klasy).
+Ctrl + E – Wyszukiwarka otwartych plików
+
+Alt + Shift + R na zaznaczonym w browserze/explorerze plików – Mo¿liwoœæ edycji nazwy pliku.
+
+Alt + strza³ka Left / Right – Przeskoczenie pomiêdzy ostatnio edytowanymi plikami do lokalizacji gdzie wykonywana by³a ostatia zmiana. Strza³ka w lewo cofa siê w historii, strza³ka w prawo idzie do przodu.
+
+Ctrl + Shift + X – Przekszta³ca zaznaczony tekst na wielkie litery
+Ctrl + Shift + Y – Przekszta³ca zaznaczony tekst na ma³e litery
+
+Ctrl + Shift + P – Przejœcie do klamry zamykaj¹cej blok.
+
+Ctrl + Shift + / – Zakomentowanie kodu poprzez /* */
+Ctrl + / – Zakomentowanie/odkomentowanie kodu poprzez //
+
+Ctrl + L – Przejœcie do lini XX
+
+Alt – Up / Down – Przesuniêcie bie¿¹cej lini w górê / w dó³
+Ctrl + Alt + Up / Down – Skopiowanie bie¿¹cej linii
+
+Tab + zaznaczone kilka linii tekstu – przesuniêcie tekstu o tabulator w prawo
+Shift + Tab + zaznaczone kilka linii tekstu – przesuniêcie tekstu o tabulator w lewo
+
+Ctrl + K + zaznaczenie zmiennej – przskoczenie do nastêpnego wyst¹pienia zmiennej w pliku
+Ctrl + Shift + K + zaznaczenie zmiennej – przskoczenie do poprzedniego wyst¹pienia zmiennej w pliku
+
+Shift + Alt + L - extract to local wariable
+Shift + Alt + E - extract to const, convert local variable to field
+
+==========================
+preferences -> Java -> editor -> save actions - automatyczne formatowanie kodu przy zapise
