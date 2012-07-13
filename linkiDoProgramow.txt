@@ -55,3 +55,7 @@ http://www.lg.com/pl/support/product/support-product-profile-mobile-redux.jsp?cu
 
 // forum androida
 http://forum.android.com.pl/f34/swype-3-26-92-oficjalna-beta-23-jae-zyki-w-tym-polski-2-6-47-bez-ogonka-w-pl-6032/
+
+
+============== Ubuntu Guide ===================
+http://ubuntuguide.org/wiki/Ubuntu_Precise
