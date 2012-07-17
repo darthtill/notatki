@@ -59,3 +59,6 @@ http://forum.android.com.pl/f34/swype-3-26-92-oficjalna-beta-23-jae-zyki-w-tym-p
 
 ============== Ubuntu Guide ===================
 http://ubuntuguide.org/wiki/Ubuntu_Precise
+
+=========== Program do tworzenia ubuntu na usb =============
+http://www.linuxliveusb.com/help/guide/using-lili
