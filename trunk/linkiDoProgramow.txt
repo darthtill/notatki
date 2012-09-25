@@ -62,3 +62,7 @@ http://ubuntuguide.org/wiki/Ubuntu_Precise
 
 =========== Program do tworzenia ubuntu na usb =============
 http://www.linuxliveusb.com/help/guide/using-lili
+
+
+============== Java EE ========================
+http://docs.oracle.com/javaee/6/tutorial/doc/ 
