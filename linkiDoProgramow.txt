@@ -66,3 +66,6 @@ http://www.linuxliveusb.com/help/guide/using-lili
 
 ============== Java EE ========================
 http://docs.oracle.com/javaee/6/tutorial/doc/ 
+
+============== Testy na znajomosc javy =========
+javablackbelt.com
