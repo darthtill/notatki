@@ -69,3 +69,6 @@ http://docs.oracle.com/javaee/6/tutorial/doc/
 
 ============== Testy na znajomosc javy =========
 javablackbelt.com
+
+=============== Framework Bean Validaton ===========
+http://docs.oracle.com/javaee/6/tutorial/doc/gircz.html#gkcrg
