@@ -75,3 +75,6 @@ http://docs.oracle.com/javaee/6/tutorial/doc/gircz.html#gkcrg
 
 =============== Kurs Javy ====================
 http://naukajavy.pl/kurs-jezyka-java/
+
+=============== Tutoriale Oracla ==============
+http://docs.oracle.com/javase/tutorial/index.html
