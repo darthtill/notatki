@@ -78,3 +78,6 @@ http://naukajavy.pl/kurs-jezyka-java/
 
 =============== Tutoriale Oracla ==============
 http://docs.oracle.com/javase/tutorial/index.html
+
+================ Forum androida - romy ============
+http://forum.xda-developers.com
