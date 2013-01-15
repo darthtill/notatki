@@ -81,3 +81,6 @@ http://docs.oracle.com/javase/tutorial/index.html
 
 ================ Forum androida - romy ============
 http://forum.xda-developers.com
+
+===================== Ksiazka do mavena ==============
+http://www.sonatype.com/books/mvnref-book/reference/
