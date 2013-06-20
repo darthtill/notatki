@@ -95,3 +95,7 @@ http://uploaded.net/file/eqkhpqmt/aiipv.rar
 =============Laptopy ===================
 http://www.notebookcheck.pl/
 http://www.nhl.pl/
+
+
+============Plan zapytania postgree========
+http://explain.depesz.com
